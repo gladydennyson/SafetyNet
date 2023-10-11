@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'SafetyNet'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7AADA1BCC4624EE48CDB5EC33D8BFD0B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59B57A3D36594FBE9C2E1913FC0B1168 }}
           package: '*.jar'
